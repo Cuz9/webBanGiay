@@ -1,0 +1,6 @@
+download jdk16 [https://drive.google.com/file/d/1wMlk4GQMuLsolWZAQxfA74kmQ_Eq5iar/view?usp=sharing]
+download jre1.8 [https://drive.google.com/file/d/1or9QF6UE7GCeXQTpYZfkwDBkfr-ntjOE/view?usp=sharing]
+
+Chú ý sử dụng Eclipse bảng Enterprise java web developer (dấu hiệu nhận biết lỗi khi add tomcat vào project không có mục servers)
+
+Tải và cài đặt như file: https://drive.google.com/file/d/1LGMQOoCpEDvThcPjg8XuLteHQqfMicqs/view
