@@ -7,7 +7,6 @@
         <a href="admin" class="list-group-item list-group-item-action py-2 ripple" aria-current="true">
           <i class="fas fa-tachometer-alt fa-fw me-3"></i><span>Main dashboard</span>
         </a>
-        <a href="hoaDon" class="list-group-item list-group-item-action py-2 ripple"><i class="fas fa-file-invoice-dollar fa-fw me-3"></i><span>Hóa Đơn</span></a>
        
          <a href="managerAccount" class="list-group-item list-group-item-action py-2 ripple">
           <i class="fas fa-user-circle fa-fw me-3"></i><span>Quản lý tài khoản</span>

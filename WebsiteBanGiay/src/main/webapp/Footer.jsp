@@ -44,10 +44,6 @@
                 <p class="float-left">
                     <a href="#">Back to top</a>
                 </p>
-            </div>
-             <div class="col text-center border-top">
-                <strong>Nhom &copy;2021. All rights reserved.</strong>
-             </div>
         </div>
     </div>
             

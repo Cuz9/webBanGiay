@@ -135,7 +135,6 @@
                   <th scope="col">Mã Hóa Đơn</th>
                   <th scope="col">Account</th>
                   <th scope="col">Tổng Giá(VNĐ)</th>
-                  <th scope="col">Ngày Xuất</th>
                 </tr>
               </thead>
            
@@ -150,7 +149,7 @@
                   </c:if>
                   </c:forEach>
                   <td>${String.format("%.02f",i.tongGia) }</td>
-                  <td>${i.ngayXuat }</td> 
+                  
                 </tr>
                  </c:forEach>
               </tbody>
