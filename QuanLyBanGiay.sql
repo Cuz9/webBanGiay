@@ -1,6 +1,6 @@
 ﻿USE [master]
 GO
-/****** Object:  Database [QuanLyBanGiay]    Script Date: 12/14/2021 8:09:26 PM ******/
+
 CREATE DATABASE [QuanLyBanGiay]
  CONTAINMENT = NONE
  ON  PRIMARY 
