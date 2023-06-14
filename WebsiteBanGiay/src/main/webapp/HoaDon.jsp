@@ -135,6 +135,7 @@
                   <th scope="col">Mã Hóa Đơn</th>
                   <th scope="col">Account</th>
                   <th scope="col">Tổng Giá(VNĐ)</th>
+           
                 </tr>
               </thead>
            
